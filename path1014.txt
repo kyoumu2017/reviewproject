@@ -1,0 +1,20 @@
+PATH=C:\Program Files\Amazon Corretto\jdk1.8.0_252\bin;
+C:\Program Files (x86)\Embarcadero\Studio\20.0\bin;
+C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl;
+C:\Program Files (x86)\Embarcadero\Studio\20.0\bin64;
+C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl\Win64;
+C:\WINDOWS\system32;
+C:\WINDOWS;
+C:\WINDOWS\System32\Wbem;
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\;
+C:\WINDOWS\System32\OpenSSH\;
+C:\Program Files\nodejs\;
+C:\Program Files (x86)\JustSystems\JSLIB32;
+C:\Program Files\Git\cmd;
+C:\Users\super\AppData\Local\Programs\Python\Python38\Scripts\;
+C:\Users\super\AppData\Local\Programs\Python\Python38\;
+C:\Users\super\AppData\Local\Programs\Microsoft VS Code\bin;
+C:\Users\super\AppData\Local\Microsoft\WindowsApps;
+C:\Users\super\AppData\Roaming\npm;
+c:\sqlite3;
+C:\Program Files\heroku\bin
